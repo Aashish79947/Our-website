@@ -240,7 +240,6 @@ function loadPhotos(year) {
         '2024': [
             { filename: 'IMG_0863.jpg', caption: 'Sweet Beginnings', note: 'Every moment with you feels like a dream come true.' },
             { filename: 'IMG_1300.jpg', caption: 'Your Beautiful Smile', note: 'The way you look at me makes my heart skip a beat.' },
-            { filename: 'IMG_1484.jpg', caption: 'Cute Moments', note: 'Holding onto these memories forever.' },
             { filename: 'IMG_1526.jpg', caption: 'Together Always', note: 'I found my home in your heart.' },
             { filename: 'IMG_1719.jpg', caption: 'Golden Hour Love', note: 'You shine brighter than any sunset.' },
             { filename: 'IMG_1744.jpg', caption: 'Wrapped in Love', note: 'The safest place in the world is in your arms.' },
